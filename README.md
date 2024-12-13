@@ -75,6 +75,3 @@ Pour exécuter le script, ouvrez une console PowerShell, placez-vous dans le ré
 - **Erreur de clonage** : Vérifiez le contenu du fichier `clone_log.txt` généré pour identifier les problèmes.
 - **Permissions insuffisantes** : Assurez-vous que les tokens ont les permissions nécessaires pour accéder aux projets et dépôts.
 
----
-
-```
