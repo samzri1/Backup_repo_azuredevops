@@ -61,7 +61,7 @@ Workspace/
 Pour exécuter le script, ouvrez une console PowerShell, placez-vous dans le répertoire contenant le script et exécutez-le avec :
 
 ```powershell
-.\script.ps1
+.\backuprepo.ps1
 ```
 
 ## Points importants
