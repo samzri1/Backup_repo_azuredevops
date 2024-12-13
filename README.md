@@ -1,4 +1,3 @@
-# Backup_repo_azuredevops
 # Script PowerShell pour lister les projets et cloner les dépôts Git dans Azure DevOps
 
 Ce script permet d'interagir avec l'API d'Azure DevOps pour :
